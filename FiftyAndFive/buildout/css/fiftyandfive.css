@@ -1,0 +1,42 @@
+body {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+a, span, h1, h2, h3, h4, span {
+	font-family: "HelveticaNeue-Bold";
+	font-weight: normal;
+	padding: 0;
+	margin: 0;
+	color: #3333333;
+}
+
+a:hover { text-decoration: none; color: inherit; opacity: 0.7; }
+
+h1 {	font-size: 124px;	}
+h2 {	font-size: 66px;	}
+h3 {	font-size: 32px;	}
+
+
+/* Custom Classes */
+
+.s-94 { font-size: 94px; 	}
+.s-32 { font-size: 32px; 	}
+.s-12 { font-size: 12px;	}
+
+.pink { 	color: #ff6666; }
+.midgrey { 	color: #666666; }
+.darkgrey { color: #333333; }
+.grey { 	color: #cccccc; }
+
+.pinkbg { 	background-color: #ff6666; }
+.whitebg {	background-color: #ffffff; }
+.greybg {	background-color: #cccccc; }
+
+.smalltext { font-size: 12px; }
+
+.thin { 	 font-family: "HelveticaNeue-Thin";}
+.bold {		 font-family: "HelveticaNeue-Bold";}
+
+.logosize { font-size:250px; line-height: 1;}
+
+.row-reverse { flex-direction: row-reverse; }
