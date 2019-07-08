@@ -20,7 +20,10 @@ h3 {	font-size: 32px;	}
 /* Custom Classes */
 
 .s-94 { font-size: 94px; 	}
+.s-40 { font-size: 40px; 	}
 .s-32 { font-size: 32px; 	}
+.s-30 { font-size: 30px; 	}
+.s-24 { font-size: 24px;	}
 .s-12 { font-size: 12px;	}
 
 .pink { 	color: #ff6666; }
@@ -31,6 +34,7 @@ h3 {	font-size: 32px;	}
 .pinkbg { 	background-color: #ff6666; }
 .whitebg {	background-color: #ffffff; }
 .greybg {	background-color: #cccccc; }
+.lightgreybg { background-color: #e0e0e0; }
 
 .smalltext { font-size: 12px; }
 
